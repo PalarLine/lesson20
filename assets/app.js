@@ -48,10 +48,6 @@
 
 // Prime numbers from 3 to 1000
 
-// let n = 100;
-
-// let n = 7;
-
 
 for(let i = 3; i <= 1000; i++){
 
