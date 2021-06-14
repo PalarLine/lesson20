@@ -63,7 +63,8 @@ for(let i = 3; i <= 1000; i++){
     if(prime) {
       console.log(`The number ${i} is prime`);  
     } 
-  }              
+  }      
+        
 
 
 
